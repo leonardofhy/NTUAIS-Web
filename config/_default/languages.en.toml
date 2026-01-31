@@ -17,5 +17,5 @@ title = "NTUAIS"
   headline = "AI Safety Research & Education"
   bio = "We are a student-led group dedicated to researching and promoting safe, beneficial, and aligned Artificial Intelligence."
   links = [
-    { github = "https://github.com/NTUAIS" },
+    { discord = "https://discord.gg/DeypaQEB" },
   ]
