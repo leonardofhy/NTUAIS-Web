@@ -785,3 +785,82 @@ body,
     justify-content: center;
   }
 }
+
+/* ============================================
+   EVENTS PAGE - Upcoming/Past Layout
+   ============================================ */
+.events-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.event-card {
+  background-color: var(--linear-bg-card);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.event-card:hover {
+  border-color: rgba(255, 255, 255, 0.15);
+  transform: translateY(-2px);
+}
+
+.event-card-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.event-badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  width: fit-content;
+}
+
+.event-badge--upcoming {
+  background-color: rgba(16, 185, 129, 0.2);
+  color: #10B981;
+}
+
+.event-badge--past {
+  background-color: rgba(107, 114, 128, 0.2);
+  color: #9CA3AF;
+}
+
+.event-card-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--linear-text-bright) !important;
+  margin: 0;
+}
+
+.event-card-title a {
+  color: var(--linear-text-bright) !important;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.event-card-title a:hover {
+  color: var(--linear-accent-blue) !important;
+}
+
+.event-card-date {
+  font-size: 0.875rem;
+  color: var(--linear-accent-blue) !important;
+  margin: 0;
+}
+
+.event-card-summary {
+  font-size: 0.875rem;
+  color: var(--linear-subtext) !important;
+  line-height: 1.5;
+  margin: 0;
+}
