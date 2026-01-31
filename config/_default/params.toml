@@ -52,9 +52,9 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "background"
-  showRecent = true
+  showRecent = false
   showRecentItems = 5
-  showMoreLink = true
+  showMoreLink = false
   showMoreLinkDest = "/blog/"
   cardView = true
   layoutBackgroundBlur = true
