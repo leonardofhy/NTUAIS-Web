@@ -12,7 +12,7 @@ cascade:
 
 We organize regular programs to help build the AI Safety research community in Taiwan.
 
-## 🎯 Key Tracks
+## Key Tracks
 
 Our three main programs run throughout the year:
 
