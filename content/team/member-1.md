@@ -4,7 +4,7 @@ role: "Role / Position"
 draft: true
 ---
 
-Add team member bio here. Describe their background, expertise, and contributions to TWAIS.
+Add team member bio here. Describe their background, expertise, and contributions to NTUAIS.
 
 ## Background
 

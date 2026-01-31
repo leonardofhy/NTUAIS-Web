@@ -1,29 +1,29 @@
 ---
-title: "About TWAIS"
+title: "About NTUAIS"
 description: "Learn more about our organization and mission"
 ---
 
 ## Our Mission
 
-TWAIS is a technology organization focused on exploring, researching, and advancing the field of Artificial Intelligence. We believe in the transformative power of AI to solve complex problems and improve lives.
+NTUAIS (National Taiwan University AI Safety Group) is a student-led organization dedicated to researching, understanding, and promoting safe, beneficial, and aligned Artificial Intelligence. We believe that ensuring AI systems are safe and beneficial is one of the most important challenges of our time.
 
 ## What We Do
 
-- **Research**: We conduct research in various AI domains including machine learning, natural language processing, computer vision, and more.
+- **Research**: We study AI safety topics including alignment, interpretability, robustness, and governance.
 
-- **Build**: We develop practical applications and tools that leverage AI to solve real-world challenges.
+- **Education**: We host reading groups, workshops, and seminars to spread awareness about AI safety challenges and solutions.
 
-- **Share**: We believe in open knowledge sharing. Our projects, tutorials, and research findings are shared with the community.
+- **Community**: We build a community of students and researchers interested in ensuring AI benefits humanity.
 
-- **Collaborate**: We foster a collaborative environment where AI enthusiasts, researchers, and practitioners can connect and learn from each other.
+- **Outreach**: We connect with the broader AI safety community and collaborate on initiatives that promote responsible AI development.
 
 ## Our Values
 
-1. **Innovation** - Pushing the boundaries of what's possible with AI
-2. **Openness** - Sharing knowledge and making AI accessible
-3. **Responsibility** - Developing AI ethically and responsibly
-4. **Collaboration** - Working together to achieve greater impact
+1. **Safety First** - Prioritizing the development of AI systems that are safe and beneficial
+2. **Rigor** - Approaching AI safety with intellectual honesty and scientific rigor
+3. **Collaboration** - Working together with the global AI safety community
+4. **Education** - Making AI safety accessible and understandable
 
 ## Get Involved
 
-Interested in joining TWAIS or collaborating with us? We're always looking for passionate individuals who share our vision. Reach out to learn about opportunities to contribute.
+Interested in joining NTUAIS or collaborating with us? We welcome anyone passionate about ensuring AI is developed safely and beneficially. Reach out to learn about opportunities to contribute.

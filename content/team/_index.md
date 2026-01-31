@@ -1,6 +1,6 @@
 ---
 title: "Our Team"
-description: "Meet the people behind TWAIS"
+description: "Meet the people behind NTUAIS"
 ---
 
-Our team consists of passionate individuals dedicated to advancing AI research and applications.
+Our team consists of passionate students and researchers dedicated to AI Safety research and education.

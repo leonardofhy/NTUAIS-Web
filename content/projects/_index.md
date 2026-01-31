@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-description: "Explore our AI projects and initiatives"
+description: "Explore our AI Safety projects and initiatives"
 ---
 
-Discover the projects we're working on at TWAIS. From research initiatives to practical applications, we're constantly pushing the boundaries of AI.
+Discover the projects we're working on at NTUAIS. From research initiatives to educational resources, we're dedicated to advancing AI Safety.
