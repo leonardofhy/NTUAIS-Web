@@ -5,9 +5,10 @@ draft: false
 summary: "本週課程探討機械式可解釋性（Mechanistic Interpretability）：嘗試逆向工程 AI 模型以理解其內部運作，就像神經科學家研究大腦一樣。"
 tags: ["AI Safety", "Course", "Mechanistic Interpretability"]
 categories: ["Education"]
-author: "Yu-Chen Tsai (Zen)"
+author: "BlueDot Impact & Yu-Chen Tsai (Zen)"
 showAuthor: false
 authors:
+  - "bluedot"
   - "zen"
 ---
 

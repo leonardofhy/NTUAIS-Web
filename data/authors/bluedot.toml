@@ -1,0 +1,5 @@
+name = "BlueDot Impact"
+bio = "BlueDot Impact runs courses to help people work on the most pressing problems in the world."
+social = [
+  { website = "https://bluedot.org/" }
+]
