@@ -7,6 +7,10 @@ authors: ["chia-tai-chang-teddy"]
 status: "active"
 weight: 2
 draft: false
+image: "img/members/avatar-m.png"
+social:
+  - email: "mailto:jiataizang@gmail.com"
+  - linkedin: "https://www.linkedin.com/in/chia-tai-chang-339886212/"
 ---
 
 I am a junior in Computer Science and Information Engineering at National Taiwan University. At the NTU AI Security Lab, my research focuses on two areas:

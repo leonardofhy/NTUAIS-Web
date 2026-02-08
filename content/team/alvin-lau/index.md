@@ -7,6 +7,9 @@ authors: ["alvin-lau"]
 status: "mentor"
 weight: 2
 draft: false
+social:
+  - facebook: "https://facebook.com/chors.debate/"
+  - linkedin: "https://www.linkedin.com/in/alvin-lau-0156b9178/"
 ---
 
 Organizer of EA Taiwan. The founder of Taiwan AIS Group. Data Team Lead from Travo AI. Interesting in community building on AIS field, and working on agent alignment in EdTech. 

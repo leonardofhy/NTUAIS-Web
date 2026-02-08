@@ -7,6 +7,11 @@ authors: ["leonardo-foo-haw-yang"]
 status: "active"
 weight: 1
 draft: false
+image: "img/members/avatar-m.png"
+social:
+  - email: "mailto:leonardofoohy@gmail.com"
+  - linkedin: "https://www.linkedin.com/in/leonardo-fhy/"
+  - facebook: "https://www.facebook.com/leonardofhy/"
 ---
 
 Leonardo is an AI researcher at NTU's Speech Processing and Machine Learning Lab (GICE) under the supervision of Prof. Hung-yi Lee. With an MS in Electrical Engineering from NTU, his research focuses on NLP, Speech Processing, and Mechanistic Interpretability for multimodal LMs.

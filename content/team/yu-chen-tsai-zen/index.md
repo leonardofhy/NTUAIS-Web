@@ -7,6 +7,11 @@ authors: ["yu-chen-tsai-zen"]
 status: "active"
 weight: 4
 draft: false
+image: "img/members/avatar-m.png"
+social:
+  - email: "mailto:95happyzen@gmail.com"
+  - facebook: "https://www.facebook.com/zen.tsai.37"
+  - threads: "https://www.threads.com/@tsai_zen"
 ---
 
 NTU Math Undergraduate, working in NTU HCI Lab. I've been actively contributing to this group for the past year, participating in lively discussions and public events.

@@ -7,6 +7,11 @@ authors: ["tzu-tsen-hsieh-christine"]
 status: "active"
 weight: 3
 draft: false
+image: "img/members/avatar-f.png"
+social:
+  - email: "mailto:christinehsieh0118@gmail.com"
+  - linkedin: "https://www.linkedin.com/in/tzu-tsen-hsieh-924a47208/"
+  - facebook: "https://www.facebook.com/xie.zi.cen/"
 ---
 
 MSc graduate in Electrical Engineering from NTU. I recently returned from Montreal after completing a research internship and attending EAG New York.
