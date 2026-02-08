@@ -6,7 +6,7 @@ date: 2026-01-31
 role: "organizer"
 weight: 3
 draft: false
-image: "img/members/avatar-f.png"
+image: "christine_crop.JPG"
 social:
   - email: "mailto:christinehsieh0118@gmail.com"
   - linkedin: "https://www.linkedin.com/in/tzu-tsen-hsieh-924a47208/"
