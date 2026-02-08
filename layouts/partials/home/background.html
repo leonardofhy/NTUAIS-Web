@@ -66,14 +66,14 @@
     <div class="flex flex-wrap gap-3 animate-blur-reveal delay-300">
       {{ with .Site.Params.homepage.button }}
       {{ if .enable }}
-      <a href="{{ .url }}" class="btn-linear btn-linear-primary">
+      <a href="{{ .url | relURL }}" class="btn-linear btn-linear-primary">
         {{ .text }}
       </a>
       {{ end }}
       {{ end }}
       {{ with .Site.Params.homepage.secondaryButton }}
       {{ if .enable }}
-      <a href="{{ .url }}" class="btn-linear btn-linear-secondary">
+      <a href="{{ .url | relURL }}" class="btn-linear btn-linear-secondary">
         {{ .text }}
       </a>
       {{ end }}
