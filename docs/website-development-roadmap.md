@@ -113,6 +113,8 @@ content/
 *   **目標**: 讓新訪客一眼看到可以參加的活動。
 *   **執行項目**:
     *   [x] **新增區塊**: 在首頁加入 "Upcoming 2026 Programs"。
+    *   [x] **Unify Team Data Structure**: Move all member data to `content/team/*.md` and update `list.html` to remove JSON dependency.
+    *   [ ] **Setup Deployment**: Configure GitHub Actions to automatically build and deploy `TWAIS.github.io` on commit to `main`.
     *   [ ] **填補資訊**: 確認 BlueDot, Technical Reading, Policy Reading 的具體日期與報名連結。
     *   [ ] **樣式優化**: 確保手機版顯示正常。
 
