@@ -3,8 +3,7 @@ title: "Tzu-Kit Chan"
 description: "Ran Stanford AI Alignment (SAIA)."
 summary: "Ran Stanford AI Alignment (SAIA)."
 date: 2026-02-07
-authors: ["tzu-kit-chan"]
-status: "mentor"
+role: "mentor"
 weight: 1
 draft: false
 social:

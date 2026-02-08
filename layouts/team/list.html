@@ -15,8 +15,8 @@
 
         {{/* Filter Members */}}
         {{ $members := .Pages }}
-        {{ $active := where $members "Params.status" "ne" "mentor" }}
-        {{ $mentors := where $members "Params.status" "eq" "mentor" }}
+        {{ $active := where $members "Params.role" "eq" "organizer" }}
+        {{ $mentors := where $members "Params.role" "eq" "mentor" }}
 
         {{/* Active Members Section (Organizers) */}}
         {{ if gt (len $active) 0 }}

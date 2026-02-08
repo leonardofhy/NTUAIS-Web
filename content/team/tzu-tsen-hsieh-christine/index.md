@@ -3,8 +3,7 @@ title: "Tzu-Tsen Hsieh"
 description: "M.S. Graduate @ NTU EE | Medical AI Researcher"
 summary: "Research in medical AI with focus on interpretable models and reinforcement learning for diffusion model alignment."
 date: 2026-01-31
-authors: ["tzu-tsen-hsieh-christine"]
-status: "active"
+role: "organizer"
 weight: 3
 draft: false
 image: "img/members/avatar-f.png"

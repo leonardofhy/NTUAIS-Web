@@ -3,8 +3,7 @@ title: "Chia-Tai Chang"
 description: "B.S. Student @ NTU CSIE | AI Security Lab"
 summary: "Research focuses on mechanistic interpretability (sparse autoencoders for multi-preference alignment) and machine unlearning via adversarial perturbation."
 date: 2026-01-31
-authors: ["chia-tai-chang-teddy"]
-status: "active"
+role: "organizer"
 weight: 2
 draft: false
 image: "img/members/avatar-m.png"
