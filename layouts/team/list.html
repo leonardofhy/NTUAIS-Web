@@ -21,7 +21,7 @@
         {{/* Active Members Section (Organizers) */}}
         {{ if gt (len $active) 0 }}
         <section class="mb-16">
-            <h2 class="section-heading mb-8">Organizers</h2>
+            <h2 class="section-heading mb-8">{{ i18n "team_organizers" }}</h2>
             <div class="team-list space-y-6">
                 {{ range $active }}
                 <article class="team-member-row">
@@ -79,7 +79,7 @@
         {{/* Mentors Section */}}
         {{ if gt (len $mentors) 0 }}
         <section>
-            <h2 class="section-heading mb-8">Mentors</h2>
+            <h2 class="section-heading mb-8">{{ i18n "team_mentors" }}</h2>
             <div class="team-list space-y-6">
                 {{ range $mentors }}
                 <article class="team-member-row">

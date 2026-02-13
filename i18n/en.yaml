@@ -1,0 +1,31 @@
+# NTUAIS UI Strings (English)
+# These translations allow content updates without code deployment
+
+# Hero Section
+- id: hero_badge
+  translation: "AI Safety Research"
+
+# Programs Section
+- id: programs_heading
+  translation: "Upcoming 2026 Programs"
+
+- id: programs_description
+  translation: "Applications opening soon for our Spring 2026 tracks."
+
+# Events Page
+- id: events_upcoming
+  translation: "Upcoming Events"
+
+- id: events_past
+  translation: "Past Events"
+
+# Team Page
+- id: team_organizers
+  translation: "Organizers"
+
+- id: team_mentors
+  translation: "Mentors"
+
+# Collaborators Section
+- id: collaborators_heading
+  translation: "Our Collaborators"

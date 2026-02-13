@@ -23,7 +23,7 @@
         {{/* Upcoming Events Section */}}
         {{ if $upcoming }}
         <section class="mb-16">
-            <h2 class="section-heading mb-6">Upcoming Events</h2>
+            <h2 class="section-heading mb-6">{{ i18n "events_upcoming" }}</h2>
             <div class="events-grid">
                 {{ range $upcoming.ByDate.Reverse }}
                 <article class="event-card event-card--upcoming">
@@ -46,7 +46,7 @@
         {{/* Past Events Section */}}
         {{ if $past }}
         <section>
-            <h2 class="section-heading mb-6">Past Events</h2>
+            <h2 class="section-heading mb-6">{{ i18n "events_past" }}</h2>
             <div class="events-grid">
                 {{ range $past.ByDate.Reverse }}
                 <article class="event-card event-card--past">
