@@ -379,9 +379,10 @@ header .main-menu .logo {
 
 header .main-menu .logo svg {
   display: block;
-  height: 5.7rem;
-  width: auto;
-  max-width: min(70vw, 20rem);
+  height: 5.7rem !important;
+  width: auto !important;
+  max-height: 5.7rem !important;
+  max-width: min(70vw, 20rem) !important;
 }
 
 /* ============================================
@@ -440,8 +441,9 @@ header .main-menu .logo svg {
   }
 
   header .main-menu .logo svg {
-    height: 4.5rem;
-    max-width: 14rem;
+    height: 4.5rem !important;
+    max-height: 4.5rem !important;
+    max-width: 14rem !important;
   }
 }
 
@@ -1039,4 +1041,27 @@ footer,
 .logo-placeholder {
   font-size: 0.75rem;
   color: var(--linear-muted);
+}
+
+/* Force logo size - override all theme styles */
+.main-menu .logo {
+  height: 5.7rem !important;
+  width: 5.7rem !important;
+}
+
+.main-menu .logo svg {
+  height: 5.7rem !important;
+  width: 5.7rem !important;
+}
+
+@media (max-width: 768px) {
+  .main-menu .logo {
+    height: 4.5rem !important;
+    width: 4.5rem !important;
+  }
+  
+  .main-menu .logo svg {
+    height: 4.5rem !important;
+    width: 4.5rem !important;
+  }
 }
