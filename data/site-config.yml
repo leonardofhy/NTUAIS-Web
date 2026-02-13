@@ -1,0 +1,44 @@
+# Site Configuration Data
+# Single source of truth for site-wide information
+
+site:
+  name: "NTUAIS"
+  full_name: "National Taiwan University AI Safety"
+  contact_email: "ntuaisafety@gmail.com"
+  description: "AI Safety Research and Education"
+
+# Homepage Configuration
+homepage:
+  typewriter:
+    enabled: true
+    speed: 50
+    cursor: "_"
+    texts:
+      - "AI Alignment"
+      - "Interpretability"
+      - "AI Governance"
+      - "Safe AGI"
+
+  # Primary CTA Button
+  primary_button:
+    enable: true
+    text: "Join Community"
+    url: "https://discord.gg/DeypaQEB"
+
+  # Secondary CTA Button
+  secondary_button:
+    enable: true
+    text: "Our Blog"
+    url: "/NTUAIS/blog"
+
+# Social Media Links
+social:
+  discord: "https://discord.gg/DeypaQEB"
+  github: "https://github.com/ntuai-safety"
+  email: "ntuaisafety@gmail.com"
+
+# Collaborators
+collaborators:
+  - name: "National Taiwan University"
+    logo: "img/members/ntu_logo.png"
+    url: "https://www.ntu.edu.tw/"
