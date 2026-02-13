@@ -1,7 +1,7 @@
 ---
 title: "Welcome to NTUAIS"
 date: 2025-01-24
-author: "NTUAIS Team"
+authors: ["ntuais-team"]
 tags: ["announcement"]
 draft: false
 ---

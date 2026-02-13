@@ -1,0 +1,13 @@
+# NTUAIS Team Author
+# Used for blog posts authored by the team collectively
+
+name = "NTUAIS Team"
+image = "img/ntuais-logo.png"
+bio = "The NTUAIS community team working on AI safety research and education"
+email = "ntuaisafety@gmail.com"
+
+[links]
+  [[links.link]]
+    name = "Website"
+    icon = "link"
+    url = "https://ntuai-safety.github.io/NTUAIS/"
