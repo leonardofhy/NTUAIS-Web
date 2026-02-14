@@ -445,6 +445,13 @@ header .main-menu .logo svg {
     max-height: 6.75rem !important;
     max-width: 21rem !important;
   }
+
+  /* Mobile menu overlay — solid background fallback for browsers
+     that don't support color-mix(), and ensure it covers hero content */
+  [role="dialog"][aria-modal="true"] {
+    background-color: var(--linear-bg, #F7FAF9) !important;
+    z-index: 100 !important;
+  }
 }
 
 /* ============================================
